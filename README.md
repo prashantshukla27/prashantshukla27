@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋 I'm Prashant Shukla
 
-<!--
-**prashantshukla27/prashantshukla27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Personal Diary App
+- Student Management System
+- Portfolio Website
+
+## Contact 9026946692
+Email: your-shuklaprashant2021@gmail.com
